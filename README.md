@@ -1,5 +1,5 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Desafio de Projeto sobre Git/GitHub
+# Desafio de Projeto sobre Git/GitHub da DIO
+Repositório criado para o Desafio de Projeto
 
 ## Links Úteis
-[Editor Online de MarkDown](https://stackedit.io/)
+[Editor Online de Markdown](https://stackedit.io/)
